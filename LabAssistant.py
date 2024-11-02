@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 from telebot import types
 
-TOKEN = "my token here"
+TOKEN = "my token"
 bot = telebot.TeleBot(TOKEN)
 stage = 0
 
